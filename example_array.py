@@ -1,9 +1,11 @@
 
 
 from array import array
-#test
+
 
 array = [1,2,3]
 
 for i in array:
     print(i)
+
+    print("test")
